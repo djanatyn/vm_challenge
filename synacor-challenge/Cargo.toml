@@ -1,0 +1,8 @@
+[package]
+name = "synacor-challenge"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.104"
+bytemuck = "1.25.2"
